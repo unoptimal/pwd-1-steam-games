@@ -106,7 +106,7 @@
         {/if}
     </div>
 
-    <p>I was surprised to see that Indie games was leading the pack over the likes of Action or Casual. Though I suppose this can be attributed to indie games often being smaller scale.</p>
+    <p>I was surprised to see that Indie games was leading the pack over the likes of Action or Casual, though I suppose this can be attributed to indie games often being smaller scale.</p>
     <p>I also thought there would be way more Free to Play games, but that's evidently not the case.</p>
 
     <style>
